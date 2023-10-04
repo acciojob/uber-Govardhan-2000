@@ -27,7 +27,7 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Autowired
 	TripBookingRepository tripBookingRepository2;
-
+// nothinggit
 	@Override
 	public void register(Customer customer) {
 		//Save the customer in database
